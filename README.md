@@ -30,10 +30,6 @@ Press ▶️ and get transported back in time!
 
 ---
 
-## 📂 Folder Structure (Important Parts)
-
----
-
 ## 🚀 Getting Started (Run Locally)
 
 ```bash
@@ -43,5 +39,7 @@ npm install
 
 #  Start dev server
 npm run dev
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
